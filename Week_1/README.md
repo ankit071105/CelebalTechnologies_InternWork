@@ -26,7 +26,6 @@ All topics are implemented from scratch in a single Jupyter Notebook assignment 
 Week_01_Python/
 │
 ├── week1_assignment.ipynb     ← Main assignment (all 6 parts)
-├── requirements.txt
 └── README.md                  ← You are here
 ```
 
