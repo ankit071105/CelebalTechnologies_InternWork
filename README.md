@@ -36,6 +36,11 @@ CelebalTechnologies_InternWork/
 ├── Week_1/
 │   ├── week1_assignment.ipynb
 │   └── README.md
+│
+├── Week_2/
+│   ├── week2_assignment.ipynb
+|   └── tesla_deliveries_production.csv
+│   └── README.md
 ```
 
 ---
