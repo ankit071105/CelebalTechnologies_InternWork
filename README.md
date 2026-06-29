@@ -41,6 +41,7 @@ CelebalTechnologies_InternWork/
 │   ├── week2_assignment.ipynb
 |   └── tesla_deliveries_production.csv
 │   └── README.md
+|
 ├── Week_3/
 │   ├── week3_assignment.ipynb
 │   └── README.md
@@ -69,10 +70,10 @@ CelebalTechnologies_InternWork/
 
 | Task | Status |
 |---|---|
-| Linear & Polynomial Regression from scratch | 🔄 Upcoming |
-| Gradient Descent implementation | 🔄 Upcoming |
-| Ridge & Lasso Regularization | 🔄 Upcoming |
-| Model evaluation — MAE, MSE, RMSE, R² | 🔄 Upcoming |
+| Linear & Polynomial Regression from scratch | ✅ Done|
+| Gradient Descent implementation | ✅ Done |
+| Ridge & Lasso Regularization | ✅ Done |
+| Model evaluation — MAE, MSE, RMSE, R² |✅ Done |
 
 ---
 
@@ -81,10 +82,10 @@ CelebalTechnologies_InternWork/
 
 | Task | Status |
 |---|---|
-| Logistic Regression from scratch | 🔄 Upcoming |
-| Decision Tree & Random Forest | 🔄 Upcoming |
-| SVM and KNN classifiers | 🔄 Upcoming |
-| Confusion Matrix, Precision, Recall, F1, ROC-AUC | 🔄 Upcoming |
+| Logistic Regression from scratch | ✅ Done |
+| Decision Tree & Random Forest | ✅ Done |
+| SVM and KNN classifiers | ✅ Done |
+| Confusion Matrix, Precision, Recall, F1, ROC-AUC | ✅ Done |
 
 ---
 
