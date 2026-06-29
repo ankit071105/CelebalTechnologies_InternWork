@@ -234,18 +234,7 @@ nbformat
 
 ---
 
-## 💡 Key Learnings
 
-- **Week 1:** SVD connects directly to PCA; CLT justifies normality assumptions in classical tests; PSI monitors production drift.
-- **Week 2:** *(To be updated)*
-- **Week 3:** *(To be updated)*
-- **Week 4:** *(To be updated)*
-- **Week 5:** *(To be updated)*
-- **Week 6:** *(To be updated)*
-- **Week 7:** *(To be updated)*
-- **Week 8:** *(To be updated)*
-
----
 
 ## 🔗 References
 
