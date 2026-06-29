@@ -149,20 +149,6 @@ CelebalTechnologies_InternWork/
 
 ---
 
-## 📊 Assignments Overview
-
-| Week | Topic | Assignment File | Status |
-|---|---|---|---|
-| Week 1 | Python | `week1_assignment.ipynb` | ✅ Done |
-| Week 2 | Classical Machine Learning | `week2_assignment.ipynb` | 🔄 Upcoming |
-| Week 3 | Classification | `week3_assignment.ipynb` | 🔄 Upcoming |
-| Week 4 | Intro to Deep Learning | `week4_assignment.ipynb` | 🔄 Upcoming |
-| Week 5 | RNN | `week5_assignment.ipynb` | 🔄 Upcoming |
-| Week 6 | AE and GAN | `week6_assignment.ipynb` | 🔄 Upcoming |
-| Week 7 | RAG and LLMs | `week7_assignment.ipynb` | 🔄 Upcoming |
-| Week 8 | Agentic AI | `week8_assignment.ipynb` | 🔄 Upcoming |
-
----
 
 ## 🛠️ Tech Stack
 
