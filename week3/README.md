@@ -31,8 +31,8 @@ The dataset contains socio-economic and health indicators for 167 countries. Sin
 ```
 Week_03_Classification/
 │
-├── customer_intelligence.ipynb     ← Main Kaggle notebook
-└── README.md                       ← You are here
+├── week3_assignment.ipynb   
+└── README.md    
 ```
 
 ---
