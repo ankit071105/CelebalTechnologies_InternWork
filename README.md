@@ -1,4 +1,4 @@
-# 🤖 CelebalTechnologies — Machine Learning Internship
+#  CelebalTechnologies — Machine Learning Internship
 
 <div align="center">
 
@@ -40,6 +40,9 @@ CelebalTechnologies_InternWork/
 ├── Week_2/
 │   ├── week2_assignment.ipynb
 |   └── tesla_deliveries_production.csv
+│   └── README.md
+├── Week_3/
+│   ├── week3_assignment.ipynb
 │   └── README.md
 ```
 
