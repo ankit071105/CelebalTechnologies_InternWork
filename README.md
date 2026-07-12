@@ -94,10 +94,10 @@ CelebalTechnologies_InternWork/
 
 | Task | Status |
 |---|---|
-| Perceptron & MLP from scratch | 🔄 Upcoming |
-| Backpropagation & chain rule | 🔄 Upcoming |
-| Activation functions — ReLU, Sigmoid, Tanh, Softmax | 🔄 Upcoming |
-| Build & train a neural network with PyTorch | 🔄 Upcoming |
+| Perceptron & MLP from scratch | ✅ Done |
+| Backpropagation & chain rule |  ✅ Done |
+| Activation functions — ReLU, Sigmoid, Tanh, Softmax |  ✅ Done |
+| Build & train a neural network with PyTorch |  ✅ Done |
 
 ---
 
