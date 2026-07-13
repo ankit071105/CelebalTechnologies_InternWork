@@ -1,11 +1,11 @@
-# 📘 Text Generation using RNN, LSTM, and GRU
+# Text Generation using RNN, LSTM, and GRU
 
 A beginner-friendly deep learning project that trains and compares three sequence
 models — **Vanilla RNN**, **LSTM**, and **GRU** — on the same text corpus to learn
 grammar, sentence flow, and contextual dependencies for next-word prediction and
 text generation.
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Design and implement a deep learning model capable of learning the underlying
 structure, grammar, and contextual dependencies of a given text corpus to generate
@@ -18,18 +18,18 @@ coherent and meaningful text sequences using:
 Then compare training loss, generated text quality, memory handling, and long-term
 dependency learning across the three architectures.
 
-## 📂 File
+##  File
 
-- `Text_Generation_RNN_LSTM_GRU_Complete.ipynb` — the full, runnable notebook
+- `Week-5.ipynb` — the full, runnable notebook
 
-## 📥 Dataset
+##  Dataset
 
 No external download is required. The corpus is a small, direct in-memory text
 string defined right in the notebook, so it runs immediately on any machine
 (local, Colab, Kaggle, etc.) with no network dependency. You can swap in your own
 paragraph, story, or lyrics later — see the Student Tasks section in the notebook.
 
-## 🧠 What the Notebook Does
+##  What the Notebook Does
 
 1. **Tokenization** — converts the corpus into integer tokens using Keras `Tokenizer`
 2. **Sequence creation** — builds n-gram style sequences for next-word prediction
@@ -43,7 +43,7 @@ paragraph, story, or lyrics later — see the Student Tasks section in the noteb
 7. **Analysis** — a conclusion section summarizing the strengths/weaknesses of
    each architecture
 
-## 🛠️ Requirements
+##  Requirements
 
 - Python 3.8+
 - TensorFlow 2.x
@@ -55,21 +55,21 @@ Install with:
 pip install tensorflow numpy matplotlib
 ```
 
-## ▶️ How to Run
+##  How to Run
 
 1. Open `Text_Generation_RNN_LSTM_GRU_Complete.ipynb` in Jupyter Notebook, Google
    Colab, or JupyterLab.
 2. Run all cells top to bottom (`Runtime > Run all` in Colab).
 3. No configuration or dataset download needed — it works out of the box.
 
-## 📊 Results You'll See
+## Results You'll See
 
 - Vocabulary size and sequence shapes printed after tokenization
 - Model summaries for each architecture
 - Side-by-side training loss and accuracy plots for RNN vs LSTM vs GRU
 - Generated text samples from each model given the same seed phrases
 
-## 📚 Learning Tasks
+##  Learning Tasks
 
 The notebook includes **Beginner**, **Intermediate**, and **Advanced** exercises,
 such as:
@@ -79,7 +79,7 @@ such as:
 - Trying character-level tokenization
 - Adding pre-trained embeddings or an attention layer
 
-## ✅ Key Takeaways
+##  Key Takeaways
 
 - **Vanilla RNN** learns short patterns but struggles with long-term memory due to
   vanishing gradients.
