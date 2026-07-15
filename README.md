@@ -114,10 +114,10 @@ CelebalTechnologies_InternWork/
 
 | Task | Status |
 |---|---|
-| Vanilla RNN implementation | 🔄 Upcoming |
-| LSTM & GRU — vanishing gradient fix | 🔄 Upcoming |
-| Time series forecasting | 🔄 Upcoming |
-| Text generation with RNN | 🔄 Upcoming |
+| Vanilla RNN implementation | ✅ Done |
+| LSTM & GRU — vanishing gradient fix | ✅ Done |
+| Time series forecasting | ✅ Done |
+| Text generation with RNN | ✅ Done |
 
 ---
 
