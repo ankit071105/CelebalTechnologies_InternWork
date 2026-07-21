@@ -29,8 +29,8 @@ This is a practical demonstration of the **Encoder-Decoder** architecture taught
 ```
 Week_06_AE_and_GAN/
 │
-├── autoencoder_denoising.ipynb     ← Main notebook
-└── README.md                       ← You are here
+├── week6.ipynb   
+└── README.md                   
 ```
 
 ---
@@ -149,7 +149,7 @@ Dense layers flatten the image and lose all spatial relationships between pixels
 
 ```python
 ae.fit(
-    x_tr_n, x_tr,          # noisy input → clean target
+    x_tr_n, x_tr,         
     epochs=20,
     batch_size=128,
     validation_data=(x_te_n, x_te)
@@ -214,8 +214,8 @@ MSE (Mean Squared Error) between the clean test image and the reconstructed outp
 
 ```bash
 python3.11 -m venv ae_env
-source ae_env/bin/activate        # Mac / Linux
-ae_env\Scripts\activate           # Windows
+source ae_env/bin/activate      
+ae_env\Scripts\activate       
 ```
 
 > Python 3.13 is not supported by TensorFlow — always use 3.10 or 3.11.
