@@ -174,6 +174,26 @@ User uploads PDF / TXT
 
 ---
 
+## Output Screenshot :- 
+
+<img width="1314" height="830" alt="1" src="https://github.com/user-attachments/assets/e6c12490-2542-46b9-92cd-d9763f7b7df5" />
+
+<img width="1314" height="830" alt="2" src="https://github.com/user-attachments/assets/96c340f2-3e9d-4d81-a2d8-3f3d9755e53c" />
+
+<img width="1314" height="830" alt="3" src="https://github.com/user-attachments/assets/a7f8ee1f-8d07-452d-bb2e-7865b9e5b590" />
+
+<img width="1314" height="830" alt="4" src="https://github.com/user-attachments/assets/8d485134-2d44-43d2-8d21-997a9eb0fdd2" />
+
+
+
+
+
+
+
+
+
+
+
 ## API Endpoints
 
 | Method | Endpoint | Description |
