@@ -22,19 +22,18 @@ Single Agent System with Tool Routing built with **FastAPI + Next.js + Groq**
 ```
 agent-pipeline/
 ├── backend/
-│   ├── main.py          # FastAPI app — all agent logic
-│   ├── .env             # Add your GROQ_API_KEY here
+│   ├── main.py   
 │   └── requirements.txt
 └── frontend/
     ├── app/
-    │   └── page.tsx     # Tabbed layout
+    │   └── page.tsx   
     ├── components/
-    │   ├── AgentRunner.tsx      # Run queries, see trajectory
-    │   ├── GraphView.tsx        # Visual pipeline graph (SVG)
-    │   ├── ToolExecutor.tsx     # Sequential vs Parallel demo
-    │   ├── ToolSchemas.tsx      # JSON schema viewer
-    │   └── MetricsDashboard.tsx # Completion rate + cost
-    └── lib/api.ts       # API client
+    │   ├── AgentRunner.tsx    
+    │   ├── GraphView.tsx       
+    │   ├── ToolExecutor.tsx    
+    │   ├── ToolSchemas.tsx    
+    │   └── MetricsDashboard.tsx
+    └── lib/api.ts     
 ```
 
 ## Setup
@@ -65,6 +64,31 @@ npm run dev
 ```
 
 Open http://localhost:3000
+
+
+## Output Images:- 
+
+<img width="1202" height="837" alt="Screenshot 2026-08-04 at 1 11 22 PM" src="https://github.com/user-attachments/assets/2ec86227-6cf2-45c3-845d-6d4bbbaf09ae" />
+
+<img width="1202" height="837" alt="Screenshot 2026-08-04 at 1 10 55 PM" src="https://github.com/user-attachments/assets/9d84ba44-8942-4471-a827-47f936f53b64" />
+
+
+
+
+
+
+<img width="1202" height="837" alt="Screenshot 2026-08-04 at 1 11 27 PM" src="https://github.com/user-attachments/assets/0108145c-b4e3-44c5-9e65-0b6c84104cdb" />
+
+
+
+
+
+<img width="1202" height="837" alt="Screenshot 2026-08-04 at 1 11 48 PM" src="https://github.com/user-attachments/assets/d4e7f399-d8d2-4680-9ec7-3835edf273f4" />
+
+
+<img width="1202" height="837" alt="Screenshot 2026-08-04 at 1 11 59 PM" src="https://github.com/user-attachments/assets/2ac189e3-c862-49e8-9692-c2c3d74bde43" />
+
+
 
 ## Tools
 
